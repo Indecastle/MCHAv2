@@ -1,2 +1,3 @@
 venv/
 IPython/.ipynb_*/
+IPython/__pycache__/
